@@ -3,6 +3,24 @@
     "start": "servor --reload"
   },
   "dependencies": {
+    "dotenv": "^16.5.0",
+    "jsonwebtoken": "^9.0.2",
     "servor": "^4.0.2"
-  }
+  },
+  "name": "stackblitz-starters-yqcpdj4x",
+  "version": "1.0.0",
+  "description": "- Understand the process of JWT token encryption and decryption for secure data transmission.",
+  "main": "script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhawana783/stackblitz-starters-yqcpdj4x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Bhawana783/stackblitz-starters-yqcpdj4x/issues"
+  },
+  "homepage": "https://github.com/Bhawana783/stackblitz-starters-yqcpdj4x#readme"
 }
